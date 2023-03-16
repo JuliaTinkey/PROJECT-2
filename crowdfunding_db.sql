@@ -1,4 +1,4 @@
-DROP TABLE "campaign"
+DROP TABLE "campaign2"
 
 CREATE TABLE "campaign2" (
     "cf_id" int   NOT NULL,
